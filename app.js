@@ -49,9 +49,13 @@ function visualizar_lista(lista) {
     let para_viualizar = document.getElementById('listaAmigos');
     para_viualizar.innerHTML = ''
 
+    //let elemento_lista = '';
     lista.forEach(element => {
         let elemento_lista = document.createElement('li');
+        //elemento_lista += `<li>${element}</li>`;
         elemento_lista.textContent = element;
         para_viualizar.appendChild(elemento_lista);
+
+        //ara_viualizar.innerHTML = elemento_lista;
     });
 }
