@@ -31,19 +31,19 @@ Probar [el programa](https://github.com/SaintoG07/amigo-secreto) o [descargar](h
 **¿Cómo usar el programa?**
 
 Primero en el campo de texto ingrese un nombre:
-![Proyecto campo de texto](https://github.com/user-attachments/assets/5265b45f-985f-4b25-ae9f-d6d17e4b1688)
+![Proyecto campo de texto](https://github.com/user-attachments/assets/c6a8baf9-cc18-4baa-bfa0-ce67cfad8a2f)
 
 Luego de ingresar el nombre se desea agregar, solo le das al botón **Añadir**
-![proyecto añadir](https://github.com/user-attachments/assets/22859b4f-5929-44a7-a044-fb346a8dac45)
+![proyecto añadir](https://github.com/user-attachments/assets/755fd77c-6352-41ee-a552-279ae3a8b78e)
 
 Si se añadio correctamente, debería aparecer debajo del *'campo de texto'* y así con lo demás nombres:
-![Proyecto se añadió](https://github.com/user-attachments/assets/125e9c9b-8d47-4d1e-888a-8a023aba58da)
+![Proyecto se añadió](https://github.com/user-attachments/assets/6d75da71-42c3-4a63-8caf-d9a142b6fab0)
 
 Y cuando tengas lo nombres que quieres, solo le das al botón **Sortear amigo** y listo:
-![Proyecto sortear](https://github.com/user-attachments/assets/c3433d86-52c8-4569-a7ee-ee4ecad44021)
+![Proyecto sortear](https://github.com/user-attachments/assets/48dc8967-b17a-400c-8c26-7d1e65bd8f86)
 
 Por último se muestra el **amigo secreto**
-![proyecto muestra el amigo secreto](https://github.com/user-attachments/assets/15a239ae-1c2c-4f73-a18c-6735d298f632)
+![proyecto muestra el amigo secreto](https://github.com/user-attachments/assets/cb6b04b4-319b-4753-9f44-3d25bb814895)
 
 ## Herramientas utilizadas
 
