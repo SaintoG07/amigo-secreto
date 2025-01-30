@@ -60,6 +60,6 @@ Probar [el programa](https://github.com/SaintoG07/amigo-secreto) o [descargar](h
 ###
 
 ## Autor
-|[<img src="https://github.com/user-attachments/assets/e3c2684c-2c9b-445e-8a50-b45349a4fc64" width=115><br>Brayan Champi Amao(SaintoG07)](https://github.com/SaintoG07)|
+|[<img src="https://github.com/user-attachments/assets/5838e01b-ea90-4688-bccf-04e4139dc46d" width=115><br>Brayan Champi Amao(SaintoG07)](https://github.com/SaintoG07)|
 | :---: |
 
