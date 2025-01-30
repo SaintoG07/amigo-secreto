@@ -20,17 +20,16 @@ Luego lo explico
 - `Funcionalidad 1`: descripción de la funcionalidad 1
 - `Funcionalidad 2`: descripción de la funcionalidad 2
 - `Funcionalidad 2`: descripción de la funcionalidad 2
-- `Funcionalidad 3`: descripción de la funcionalidad 2
 
-\## 📁 Acceso al proyecto
+## 📁 Acceso al proyecto
 
 **Indica cómo se puede descargar o acceder al código fuente del proyecto, ya sea proyecto inicial o final**
 
-\## 🛠️Enlace para jugar
+Para poder [usar el programa](https://github.com/camilafernanda/GlicoCare) o [descargarlo](https://github.com/user-attachments/files/18607725/amigo-secreto.zip).
 
 **Muestra las instrucciones necesarias para abrir y ejecutar el proyecto**
 
-## Ferramentas utilizadas
+## Herramientas utilizadas
 
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/user-attachments/assets/305ac6d6-202b-4678-8025-f18c353f06ce" width="40" height="40"/> </a> 
 
@@ -40,7 +39,7 @@ Luego lo explico
 
 ###
 
-## Autores
-|[<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Brayan Champi Amao(SaintoG07)</sub>](https://github.com/SaintoG07)|
+## Autor
+|[<img src="https://github.com/user-attachments/assets/e23c7411-b0aa-470f-bc1e-66b16a6c9f73" width=115><br>Brayan Champi Amao(SaintoG07)](https://github.com/SaintoG07)|
 | :---: |
 
