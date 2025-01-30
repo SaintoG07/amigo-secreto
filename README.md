@@ -11,23 +11,39 @@
 ## Descripción del proyecto
 
 <p align="justify">
-Luego lo explico
+Este programa permite realizar un sorteo de <b>amigo secreto</b> de manera aleatoria.
 </p>
 
 
-## :hammer:Funcionalidades del proyecto
+## :hammer:Funcionalidades programa
 
-- `Funcionalidad 1`: descripción de la funcionalidad 1
-- `Funcionalidad 2`: descripción de la funcionalidad 2
-- `Funcionalidad 2`: descripción de la funcionalidad 2
+- `Funcionalidad 1`: Muestra el **amigo secreto** en la pantalla.
+- `Funcionalidad 2`: No se puede ingresar un nombre vacío.
+- `Funcionalidad 2`: No puedes sortear sin antes ingresar algún nombre.
+- `Funcionalidad 3`: Permite ingresar cualquier cantidad de participantes(lo recomendable sería cómo minímo 2 nombres)
 
 ## 📁 Acceso al proyecto
 
-**Indica cómo se puede descargar o acceder al código fuente del proyecto, ya sea proyecto inicial o final**
+**Puedes usar los seguientes enlaces para:**
 
-Para poder [usar el programa](https://github.com/camilafernanda/GlicoCare) o [descargarlo](https://github.com/user-attachments/files/18607725/amigo-secreto.zip).
+Probar [el programa](https://github.com/SaintoG07/amigo-secreto) o [descargar](https://github.com/user-attachments/files/18607725/amigo-secreto.zip) en formato zip.
 
-**Muestra las instrucciones necesarias para abrir y ejecutar el proyecto**
+**¿Cómo usar el programa?**
+
+Primero en el campo de texto ingrese un nombre:
+![Proyecto campo de texto](https://github.com/user-attachments/assets/5265b45f-985f-4b25-ae9f-d6d17e4b1688)
+
+Luego de ingresar el nombre se desea agregar, solo le das al botón **Añadir**
+![proyecto añadir](https://github.com/user-attachments/assets/22859b4f-5929-44a7-a044-fb346a8dac45)
+
+Si se añadio correctamente, debería aparecer debajo del *'campo de texto'* y así con lo demás nombres:
+![Proyecto se añadió](https://github.com/user-attachments/assets/125e9c9b-8d47-4d1e-888a-8a023aba58da)
+
+Y cuando tengas lo nombres que quieres, solo le das al botón **Sortear amigo** y listo:
+![Proyecto sortear](https://github.com/user-attachments/assets/c3433d86-52c8-4569-a7ee-ee4ecad44021)
+
+Por último se muestra el **amigo secreto**
+![proyecto muestra el amigo secreto](https://github.com/user-attachments/assets/15a239ae-1c2c-4f73-a18c-6735d298f632)
 
 ## Herramientas utilizadas
 
