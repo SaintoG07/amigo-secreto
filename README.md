@@ -29,21 +29,25 @@ Este programa permite realizar un sorteo de <b>amigo secreto</b> de manera aleat
 Probar [el programa](https://github.com/SaintoG07/amigo-secreto) o [descargar](https://github.com/user-attachments/files/18607725/amigo-secreto.zip) en formato zip.
 
 **¿Cómo usar el programa?**
-
-Primero en el campo de texto ingrese un nombre:
-![Proyecto campo de texto](https://github.com/user-attachments/assets/c6a8baf9-cc18-4baa-bfa0-ce67cfad8a2f)
-
-Luego de ingresar el nombre se desea agregar, solo le das al botón **Añadir**
-![proyecto añadir](https://github.com/user-attachments/assets/755fd77c-6352-41ee-a552-279ae3a8b78e)
-
-Si se añadio correctamente, debería aparecer debajo del *'campo de texto'* y así con lo demás nombres:
-![Proyecto se añadió](https://github.com/user-attachments/assets/6d75da71-42c3-4a63-8caf-d9a142b6fab0)
-
-Y cuando tengas lo nombres que quieres, solo le das al botón **Sortear amigo** y listo:
-![Proyecto sortear](https://github.com/user-attachments/assets/48dc8967-b17a-400c-8c26-7d1e65bd8f86)
-
-Por último se muestra el **amigo secreto**
-![proyecto muestra el amigo secreto](https://github.com/user-attachments/assets/cb6b04b4-319b-4753-9f44-3d25bb814895)
+<details>
+  <summary>Haz clic aquí para ver más</summary>
+  
+  Primero en el campo de texto ingrese un nombre:
+  ![1](https://github.com/user-attachments/assets/c6a8baf9-cc18-4baa-bfa0-ce67cfad8a2f)
+  
+  Luego de ingresar el nombre se desea agregar, solo le das al botón **Añadir**
+  ![2](https://github.com/user-attachments/assets/755fd77c-6352-41ee-a552-279ae3a8b78e)
+  
+  Si se añadio correctamente, debería aparecer debajo del *'campo de texto'* y así con lo demás nombres:
+  ![3](https://github.com/user-attachments/assets/6d75da71-42c3-4a63-8caf-d9a142b6fab0)
+  
+  Y cuando tengas lo nombres que quieres, solo le das al botón **Sortear amigo** y listo:
+  ![4](https://github.com/user-attachments/assets/48dc8967-b17a-400c-8c26-7d1e65bd8f86)
+  
+  Por último se muestra el **amigo secreto**
+  ![5](https://github.com/user-attachments/assets/cb6b04b4-319b-4753-9f44-3d25bb814895)
+  
+</details>
 
 ## Herramientas utilizadas
 
