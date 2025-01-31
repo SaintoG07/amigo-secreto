@@ -45,7 +45,7 @@ function sortear_amigo() {
     }
 }
 
-//Función para visualizar la lista de amigos en HTML:
+//Función para visualizar la lista de amigos en la pantalla:
 function visualizar_lista(lista, id) {
     let para_visualizar = document.getElementById(id);
     para_visualizar.innerHTML = ''
