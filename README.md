@@ -26,7 +26,7 @@ Este programa permite realizar un sorteo de <b>amigo secreto</b> de manera aleat
 
 **Puedes usar los siguientes enlaces para:**
 
-Probar [el programa](https://github.com/SaintoG07/amigo-secreto) o [descargar](https://github.com/user-attachments/files/18607725/amigo-secreto.zip) en formato zip.
+Probar [el programa](https://saintog07.github.io/amigo-secreto/) o [descargar](https://github.com/user-attachments/files/18607725/amigo-secreto.zip) en formato zip.
 
 **¿Cómo usar el programa?**
 <details>
