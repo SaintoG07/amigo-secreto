@@ -11,8 +11,8 @@ function agregar_amigo() {
         amigos.push(amigo_ingresado_por_usuario);
 
         //Llamamos la función para limpiar el campo de texto:
-        limpiar_UI();
-        //Luego con esta función, mostramos en la interfaz los nombres ingresados o los nombres que están
+        limpiar_campo_de_texto();
+        //Luego con esta función, mostramos en la pantalla los nombres ingresados o los nombres que están
         //en nuestra lista "amigos"
         visualizar_lista(amigos, 'listaAmigos');
     }
@@ -23,12 +23,12 @@ function agregar_amigo() {
 }
 
 //Función para limpiar el campo de texto:
-function limpiar_UI() {
+function limpiar_campo_de_texto() {
     let input_html = document.querySelector('#amigo').value = '';
 }
 
 //Función para elegir o sortear un amigo aleatorio de la lista "amigos" cuando el usuario le de al 
-//botón "Sortear amigo" y luego va mostrar el amigo secreto:
+//botón "Sortear amigo" y luego va mostrar el amigo secreto en la pantalla:
 function sortear_amigo() {
 
     //Condicional para asegurar que el usuario ingrese nombres antes de sortear:
@@ -49,7 +49,7 @@ function sortear_amigo() {
 function visualizar_lista(lista, id) {
     let para_visualizar = document.getElementById(id);
     para_visualizar.innerHTML = ''
-    
+
     lista.forEach(element => {
         let elemento_lista = document.createElement('li');
         elemento_lista.textContent = element;
